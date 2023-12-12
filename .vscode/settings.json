@@ -1,0 +1,35 @@
+{
+    "cSpell.words": [
+        "floatlayout",
+        "kivy"
+    ],
+    "materialkv.pythonFile": "main.py",
+    "terminal.integrated.profiles.linux": {
+      "Ubuntu": {
+        "path": "wsl.exe",
+        "args": ["-d", "Ubuntu"],
+        "icon": "terminal-ubuntu"
+      },
+      "Bash": {
+        "path": "wsl.exe",
+        "args": [],
+        "icon": "terminal-bash"
+      },
+      "PowerShell": {
+        "source": "PowerShell",
+        "icon": "terminal-powershell",
+        "args": ["-NoLogo"]
+      },
+      "PowerShell Core": {
+        "path": ["pwsh.exe"],
+        "args": ["-NoLogo"]
+      },
+      "Command Prompt": {
+        "path": ["cmd.exe"]
+      }
+    },
+  
+    "terminal.integrated.defaultProfile.linux": "Ubuntu",
+}
+
+ 
