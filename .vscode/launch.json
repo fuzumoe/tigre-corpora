@@ -5,11 +5,11 @@
         {
             "name": "Python: Current File",
             "type": "python",
-            "python": "/opt/upgrad/tigreNLP/venv/bin/python",
+            "python": "${workspaceFolder}/venv/bin/python",
             "request": "launch",
             "program": "${workspaceFolder}/main.py",
             "console": "integratedTerminal", 
-            "python.pythonPath": "/opt/upgrad/tigreNLP/venv/bin/python",
+            "python.pythonPath": "${workspaceFolder}/venv/bin/python",
         }
     ]
 }

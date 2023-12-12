@@ -1,8 +1,5 @@
 {
-    "cSpell.words": [
-        "floatlayout",
-        "kivy"
-    ],
+  
     "materialkv.pythonFile": "main.py",
     "terminal.integrated.profiles.linux": {
       "Ubuntu": {
